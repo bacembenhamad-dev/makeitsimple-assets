@@ -1,11 +1,11 @@
-# makeitsimple-assets
+# makeitsimple.tech
 
-Public image host for [makeitsimple.tech](https://instagram.com/makeitsimple.tech).
+One idea you did not know. Every week, in 3-5 slides.
+Explainers, books and tools for people who work in IT - and the people who hire them.
 
-Instagram's publishing API will not accept an image upload — it fetches from a public HTTPS URL.
-This repo is that host, served by GitHub Pages. Slides are pushed here by the content engine at
-publish time, moments before they go public on Instagram anyway.
+Posted on [Instagram](https://instagram.com/makeitsimple.tech). The archive lives here.
 
-**Everything in this repo is world-readable. Never put drafts, credentials or anything private here.**
+## Posts
 
-Layout: `posts/<post-id>/slide-N.png` → `https://bacembenhamad-dev.github.io/makeitsimple-assets/posts/<post-id>/slide-N.png`
+-  — [Start here — what this page is](posts/w0-start-here/)
+-  — [What a token actually is (it is not a word)](posts/w1-s1-what-a-token-actually-is-it-is-not-a-word/)
